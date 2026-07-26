@@ -1,0 +1,23 @@
+{
+  "username": true,
+  "password": true,
+  "loginButton": true,
+  "inventoryTitle": false,
+  "firstAddButton": false,
+  "cartLink": false,
+  "checkoutButton": false,
+  "firstName": false,
+  "lastName": false,
+  "postalCode": false,
+  "continueButton": false,
+  "finishButton": false,
+  "completeHeader": false,
+  "completeText": false,
+  "totalPrice": false,
+  "paymentInfo": false,
+  "shippingInfo": false,
+  "menuButton": false,
+  "logoutLink": false,
+  "inventoryItemNames": [],
+  "cartBadge": false
+}
